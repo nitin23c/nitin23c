@@ -1,7 +1,8 @@
 # Nitin Chauhan
 
-Solutions Architect in Bangalore. I design cloud infrastructure on AWS and Oracle
-Cloud, and automate how it's built and shipped with Terraform and CI/CD pipelines.
+Principal Site Reliability Engineer in Bangalore, with 16 years in software and
+infrastructure. I move applications to the cloud and keep them reliable, using AWS,
+Oracle Cloud, Kubernetes, Terraform and CI/CD pipelines.
 
 [LinkedIn](https://www.linkedin.com/in/nitin23c)
 
@@ -28,5 +29,5 @@ Cloud, and automate how it's built and shipped with Terraform and CI/CD pipeline
 
 ## Tech
 
-AWS · Oracle Cloud · Google Cloud · Terraform · Jenkins · Docker · Kubernetes ·
+AWS · Oracle Cloud · Google Cloud · Terraform · Ansible · Jenkins · Docker · Kubernetes ·
 Python · Go · Bash · Oracle · PostgreSQL · MySQL · MongoDB
