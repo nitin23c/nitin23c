@@ -27,6 +27,15 @@ Oracle Cloud, Kubernetes, Terraform and CI/CD pipelines.
 - **[print-dashboard](https://github.com/nitin23c/print-dashboard):** Phone-friendly
   dashboard for a CUPS print server, with job progress, uploads and colour controls.
 
+## Built for day-to-day use
+
+- **[sshtui](https://github.com/nitin23c/sshtui):** Keyboard-first terminal UI for
+  OpenSSH hosts. Search, tag and test the hosts in `~/.ssh/config`, and open them in
+  the current terminal or a new tmux pane, window or session.
+- **[scptui](https://github.com/nitin23c/scptui):** Two-pane terminal file browser for
+  copying files over SSH, with whole-batch progress, overwrite prompts and a
+  production-host guard.
+
 ## Tech
 
 AWS · Oracle Cloud · Google Cloud · Terraform · Ansible · Jenkins · Docker · Kubernetes ·
