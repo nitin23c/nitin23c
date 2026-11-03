@@ -36,6 +36,12 @@ Oracle Cloud, Kubernetes, Terraform and CI/CD pipelines.
   copying files over SSH, with whole-batch progress, overwrite prompts and a
   production-host guard.
 
+## Built for fun
+
+- **[pixel-progress](https://github.com/nitin23c/pixel-progress):** Retro pixel-grid
+  progress bar for Claude Code, styled like GitHub's contribution graph. Squares
+  light up above the prompt as Claude's plan steps complete, then a finishing wave.
+
 ## Tech
 
 AWS · Oracle Cloud · Google Cloud · Terraform · Ansible · Jenkins · Docker · Kubernetes ·
