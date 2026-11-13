@@ -26,6 +26,9 @@ Oracle Cloud, Kubernetes, Terraform and CI/CD pipelines.
   Google Photos as albums, and checks each one against Google's own item count.
 - **[print-dashboard](https://github.com/nitin23c/print-dashboard):** Phone-friendly
   dashboard for a CUPS print server, with job progress, uploads and colour controls.
+- **[deco-mcp](https://github.com/nitin23c/deco-mcp):** MCP server that lets an AI
+  assistant read a TP-Link Deco mesh router and manage its DHCP reservations, with
+  changes gated behind your approval.
 
 ## Built for day-to-day use
 
