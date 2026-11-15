@@ -44,6 +44,10 @@ Oracle Cloud, Kubernetes, Terraform and CI/CD pipelines.
 - **[pixel-progress](https://github.com/nitin23c/pixel-progress):** Retro pixel-grid
   progress bar for Claude Code, styled like GitHub's contribution graph. Squares
   light up above the prompt as Claude's plan steps complete, then a finishing wave.
+- **[maintenance-page](https://github.com/nitin23c/maintenance-page):** Animated
+  maintenance page in one HTML file, shown when a site behind Traefik, nginx or Caddy
+  is down. An engineer in odd socks watches a server flash an amber fault code, and
+  the real 502 still reaches your monitoring.
 
 ## Tech
 
