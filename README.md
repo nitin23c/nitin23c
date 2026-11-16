@@ -29,6 +29,9 @@ Oracle Cloud, Kubernetes, Terraform and CI/CD pipelines.
 - **[deco-mcp](https://github.com/nitin23c/deco-mcp):** MCP server that lets an AI
   assistant read a TP-Link Deco mesh router and manage its DHCP reservations, with
   changes gated behind your approval.
+- **[smalltv-homelab](https://github.com/nitin23c/smalltv-homelab):** ESPHome firmware
+  that turns a cheap ESP8266 desk display into a homelab status screen: world clock,
+  animated weather, Gatus service health and Pi-hole stats.
 
 ## Built for day-to-day use
 
